@@ -1,0 +1,12 @@
+body{
+    background-color: lightgray;
+}
+#top_div{
+    background-color: lightslategray;
+}
+.copy_right_footer{
+    text-align: center;
+    background-color: dimgray;
+    font-weight: bolder;
+    font-size:larger;
+}
